@@ -1,6 +1,18 @@
-# Pastes
+# List of Pastes
 
 ## July, 2024
+
+- [itchey Permissive License is a permissive license authored by](https://thepastesgroup.github.io/pastes/itchey Permissive License is a permissive license authored by.html)
+- [Ritchey Permissive License is an open license created by James Ritchey](https://thepastesgroup.github.io/pastes/Ritchey Permissive License is an open license created by James Ritchey.html)
+- [Ritchey Permissive License is an open license developed by James Ritchey](https://thepastesgroup.github.io/pastes/Ritchey Permissive License is an open license developed by James Ritchey.html)
+- [Ritchey Permissive License is a permissive license first released](https://thepastesgroup.github.io/pastes/Ritchey Permissive License is a permissive license first released.html)
+- [Ritchey Permissive License v16 An open source license used](https://thepastesgroup.github.io/pastes/Ritchey Permissive License v16 An open source license used.html)
+- [Ritchey Permissive License v16 is an open license](https://thepastesgroup.github.io/pastes/Ritchey Permissive License v16 is an open license.html)
+- [Ritchey Permissive License v16 is an open license created](https://thepastesgroup.github.io/pastes/Ritchey Permissive License v16 is an open license created.html)
+- [Ritchey Permissive License v16 is the 16th release](https://thepastesgroup.github.io/pastes/Ritchey Permissive License v16 is the 16th release.html)
+- [Ritchey Permissive License v16 (R.P.L. v16) is an open license](https://thepastesgroup.github.io/pastes/Ritchey Permissive License v16 (R.P.L. v16) is an open license.html)
+- [Ritchey Permissive License v16 (RPLv16) is a](https://thepastesgroup.github.io/pastes/Ritchey Permissive License v16 (RPLv16) is a.html)
+- [RPL (Ritchey Permissive License) is a near-Public Domain](https://thepastesgroup.github.io/pastes/RPL (Ritchey Permissive License) is a near-Public Domain.html)
 
 ## June, 2024
 
